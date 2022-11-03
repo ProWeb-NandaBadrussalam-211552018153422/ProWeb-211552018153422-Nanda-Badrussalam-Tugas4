@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+}
+
+h3 {
+  color: #00a2c6
+}
+
+h4 {
+  color: #00a2c6
+}
+
+footer.bawah {
+  padding: 15px;
+  color:white;
+  background-color: #00a2c6;
+  text-align: center;
+}
+
+
+p {
+  line-height: 2em;
+  text-indent: 2em;
+  text-align: justify;
+}
+
+a {
+  text-decoration: underline;
+  color: red;
+}
+p.sejarah{
+  font-size:15px
+}
+
+a.link{
+  background-color: #FFFF00;
+}
+
+div.lef{
+  float: right;
+}
+footer.atas{
+  padding: 15px;
+  color:white;
+  background-color: #00a2c6;
+}
